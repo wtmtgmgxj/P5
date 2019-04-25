@@ -1,0 +1,31 @@
+/.metadata/
+
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+RemoteSystemsTempFiles
+/.recommenders/
+
+
+### IDEA ###
+*.iml
+*.idea
+*.iws
+
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+
+### Maven ###
+log/
+target/
+
+
+### Mac ###
+.DS_Store
